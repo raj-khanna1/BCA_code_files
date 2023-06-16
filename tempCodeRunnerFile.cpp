@@ -1,0 +1,1 @@
+cout<<"A's roll is "<<obj.roll<<endl;
